@@ -2,4 +2,8 @@ mycode head
 my 2nd code for feature1
 im trying a code for merging
 
+<<<<<<< HEAD
 Conflict resolution
+=======
+to to keep code simple
+>>>>>>> feature2
